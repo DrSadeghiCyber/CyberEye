@@ -38,7 +38,7 @@ cd DrSadeghi-PentestKit
 pip install -r requirements.txt
 python main.py```
 
-Windows
+**Windows**
 
 1. Download and install Python 3.8+ from python.org
 
@@ -46,16 +46,16 @@ Windows
 2. Open Command Prompt (CMD) or PowerShell and run:
 
 
-
+```cmd
 git clone https://github.com/YourUsername/DrSadeghi-PentestKit.git
 cd DrSadeghi-PentestKit
 pip install -r requirements.txt
-python main.py
+python main.py```
 
 
 ---
 
-🧑‍💻 Usage
+🧑‍💻** Usage**
 
 Run the program and select tools from the interactive menu.
 Use the Help section for detailed instructions.
@@ -63,7 +63,7 @@ Use the Help section for detailed instructions.
 
 ---
 
-📞 Support
+📞 **Support**
 
 For bugs, questions, or feature requests:
 Telegram: @Mr_sequrityy
@@ -71,7 +71,7 @@ Telegram: @Mr_sequrityy
 
 ---
 
-⚠️ Disclaimer
+⚠️** Disclaimer**
 
 This tool is only for educational and authorized penetration testing.
 Unauthorized use is prohibited. Use responsibly.
@@ -79,7 +79,7 @@ Unauthorized use is prohibited. Use responsibly.
 
 ---
 
-📝 License
+📝** License**
 
 MIT License
 © 2025 Dr.Sadeghi
