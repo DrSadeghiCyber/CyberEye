@@ -35,7 +35,6 @@ pkg update && pkg upgrade
 pkg install python git -y
 git clone https://github.com/YourUsername/DrSadeghi-PentestKit.git
 cd DrSadeghi-PentestKit
-pip install -r requirements.txt
 python main.py```
 
 **Windows**
